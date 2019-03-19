@@ -1,9 +1,9 @@
-#IP_GeneralWhois
+# IP_GeneralWhois
 This tools aims to help my SOC Team to make Whois + GeoIP location on bulk IP.
 
-##Installation
+## Installation
 `pip -r requirements.txt`
 
-##Run
+## Run
 `./IP_GeneralWhois -i ip.txt -o output.csv -g GeoLite2-City.mmdb`
 
